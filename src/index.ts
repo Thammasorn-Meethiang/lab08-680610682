@@ -35,7 +35,7 @@ app.get("/api/me", (req: Request, res: Response) => {
   res.status(200).json({
     
       ok : true,
-      fullName: "Thamasorn Meethiang",
+      fullName: "Thammasorn Meethiang",
       studentId: "680610682",
   
   });
