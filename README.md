@@ -1,5 +1,11 @@
 # Lecture 18 - RESTful API (Part 3)
 
+รหัส นศ.:680610682
+
+ชื่อ-สกุล :นายธรรมสรณ์ มีเที่ยง
+
+Vercel URL :lab8-680610682.vercel.app/api
+
 ### Content
 
 - Current API
